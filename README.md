@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep NLP and CV.**
 
-- 👯 I’m looking to collaborate on **any type of invoice image to text Project.**
+- 👯 I’m looking to collaborate on **Numerical weather prediction forecasting model of the atmosphere and oceans to predict the weather based on current weather conditions**
 
 - 👨‍💻 All of my projects are available at [GitHub](GitHub)
 
